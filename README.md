@@ -1,5 +1,6 @@
 # CarND-Extended-Kalman-Filter
-Estimate the location of a moving object by using an extended Kalman filter on noisy lidar and radar measurements.  The program is written in C++.  This Project is from Udacity's Self-Driving Car Engineer Nanodegree Program.
+Estimate the location of a moving object by using an extended Kalman filter on noisy lidar and radar measurements.  
+The program is written in C++.  This Project is from Udacity's Self-Driving Car Engineer Nanodegree Program.
 
 ## Basic Set-up
 1. Clone this repo.
